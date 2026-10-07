@@ -2,7 +2,8 @@
 
 **Monitoring Portfolio Health for Cash Flow Stability**
 
-![Dashboard Preview](assets/dashboard.jpg)
+<img width="1098" height="707" alt="Screenshot 2026-10-07 200021" src="https://github.com/user-attachments/assets/26fa5e50-b5a2-4db0-bd3d-a8386615a35b" />
+
 
 ## Overview
 
