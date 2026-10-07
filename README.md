@@ -64,13 +64,15 @@ The binary response variable is **Default Payment**. The dataset has 23 standard
 
 ### 2. Cash Gap by gender
 
-![Cash Gap by Gender](assets/cash-gap-gender.png)
+<img width="486" height="338" alt="image" src="https://github.com/user-attachments/assets/008d3bdd-1d49-4203-9a44-a75a301e27a3" />
+
 
 Female cardholders account for a Cash Gap of **over 4.18 bn**, versus about **2.97 bn** for males. Liquidity strain is concentrated in the female segment, which also shows the highest delinquency and payment delay rates.
 
 ### 3. Cash Gap by education level
 
-![Cash Gap by Education](assets/cash-gap-education.png)
+<img width="527" height="372" alt="image (1)" src="https://github.com/user-attachments/assets/eca50355-fe63-4dcd-80a7-ab1fb5e7ed5b" />
+
 
 | Education | Cash Gap |
 |---|---|
@@ -83,7 +85,8 @@ University and graduate-school holders together account for **5.92 bn** of the d
 
 ### 4. Cash Gap by marital status
 
-![Cash Gap by Marital Status](assets/cash-gap-marital.png)
+<img width="515" height="317" alt="image (2)" src="https://github.com/user-attachments/assets/c896afca-1241-4db8-b9cd-d057c4180a02" />
+
 
 | Marital status | Cash Gap |
 |---|---|
