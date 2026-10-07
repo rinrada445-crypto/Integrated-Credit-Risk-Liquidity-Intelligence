@@ -111,25 +111,5 @@ University and graduate-school holders together account for **5.92 bn** of the d
 - Recalibrate the credit scoring model: reduce the predictive weight of `EDUCATION` and penalize historical payment delays (`PAY_1`–`PAY_6`) more heavily.
 - Move from a one-size-fits-all policy to a targeted risk control framework with segment-specific collection strategies.
 
-## Repository Structure
 
-```
-.
-├── README.md
-├── assets/          # dashboard screenshots and charts
-├── data/            # dataset (see Dataset section)
-└── ...
-```
 
-## Getting Started
-
-```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
-```
-
-<!-- Add install and run instructions for your dashboard here -->
-
-## License
-
-Add your license here (e.g. MIT). The dataset is subject to the terms of the UCI Machine Learning Repository.
