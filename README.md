@@ -114,4 +114,5 @@ University and graduate-school holders together account for **5.92 bn** of the d
 
 ## License
 
-[Add your license here. The dataset follows the UCI Machine Learning Repository terms.](https://app.notion.com/p/Integrated-Credit-Risk-Liquidity-Intelligence-37852c4f263080af8c1df6c2c6c9cec0)
+https://app.notion.com/p/Integrated-Credit-Risk-Liquidity-Intelligence-37852c4f263080af8c1df6c2c6c9cec0 
+
