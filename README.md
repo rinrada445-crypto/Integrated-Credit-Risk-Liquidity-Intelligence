@@ -122,7 +122,5 @@ University and graduate-school holders together account for **5.92 bn** of the d
 └── assets/          # screenshots
 ```
 
-## License
 
-https://app.notion.com/p/Integrated-Credit-Risk-Liquidity-Intelligence-37852c4f263080af8c1df6c2c6c9cec0 
 
