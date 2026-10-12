@@ -98,8 +98,7 @@ University and graduate-school holders together account for **5.92 bn** of the d
 ## Key Insights
 
 1. **The education–underwriting paradox.** Risk is not concentrated in lower-education segments. Degree holders, who largely overlap with the 31–40 core working population, hold the bulk of the deficit. This suggests credit limits (`LIMIT_BAL`) were allocated on profile prestige rather than cash flow reliability and repayment discipline.
-2. **Systemic financial strain.** Single and married cardholders have similar gaps, and the NPL Ratio is roughly **20% across all age groups**. This points to a portfolio-wide problem rather than one isolated behavioral segment.
-3. **Risk epicenter.** The highest delinquency, longest payment delays, and most disproportionate Cash Gap sit with **single female cardholders aged 21–40**, the priority target for risk containment.
+2. **Age-Driven Default Variance**: Default rates are structurally higher among cardholders aged 21–40 compared to other age brackets, indicating localized credit vulnerability rather than an even distribution across the portfolio.
 
 ## Recommendations
 
@@ -117,7 +116,7 @@ University and graduate-school holders together account for **5.92 bn** of the d
 ```
 .
 ├── README.md
-├── dashboard.pbix   # Power BI report
+├── project2.pbix   # Power BI report
 ├── data/            # dataset
 └── assets/          # screenshots
 ```
